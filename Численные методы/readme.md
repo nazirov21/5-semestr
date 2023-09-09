@@ -2,7 +2,7 @@
 Регрессия(по заданным данным сделать предсказание) - интерполяция(задать математически уравнение для данных)
 Производная - интеграл -дифференцальное уравнение 
 
-Excel - python - matplotlib
+Excel - python matplotlib
 
 https://docs.google.com/spreadsheets/d/1srpV9e7_OavodB8DfBvo0exyYWmxybAAs9vViFVNtZg/edit?usp=sharing
 
