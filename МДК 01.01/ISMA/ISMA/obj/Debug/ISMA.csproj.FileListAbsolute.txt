@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\ISMA\ISMA\bin\Debug\ISMA.exe.config
+C:\Users\Администратор\source\repos\ISMA\ISMA\bin\Debug\ISMA.exe
+C:\Users\Администратор\source\repos\ISMA\ISMA\bin\Debug\ISMA.pdb
+C:\Users\Администратор\source\repos\ISMA\ISMA\obj\Debug\ISMA.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\ISMA\ISMA\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\ISMA\ISMA\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\ISMA\ISMA\obj\Debug\ISMA_MarkupCompile.cache
+C:\Users\Администратор\source\repos\ISMA\ISMA\obj\Debug\ISMA_MarkupCompile.lref
+C:\Users\Администратор\source\repos\ISMA\ISMA\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\ISMA\ISMA\obj\Debug\ISMA.g.resources
+C:\Users\Администратор\source\repos\ISMA\ISMA\obj\Debug\ISMA.Properties.Resources.resources
+C:\Users\Администратор\source\repos\ISMA\ISMA\obj\Debug\ISMA.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\ISMA\ISMA\obj\Debug\ISMA.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ISMA\ISMA\obj\Debug\ISMA.exe
+C:\Users\Администратор\source\repos\ISMA\ISMA\obj\Debug\ISMA.pdb
