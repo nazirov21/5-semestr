@@ -4,7 +4,7 @@ https://docs.google.com/document/d/1B_w4x_4--eurmlWlfMTrTm18GpxBl3RQr247H2xnqXc/
 
 http://letooo00000.tilda.ws/page0101
 
-
+https://docs.google.com/document/d/11KeUJi4SlHkd9N-bwN1SqIt4VBbipW-b1ZBF5Uq_1bk/edit?usp=sharing - талант 30.10.2023
 
 
 Приложение состоит из двух частей фронтенд и бекенд 
