@@ -6,7 +6,7 @@
 
 Excel - python matplotlib
 
-https://docs.google.com/spreadsheets/d/1n2W5rOsAeVSHg08rnsPbj_JlNkAgtNun0LZPUFpw3Eo/edit?usp=sharing - excel
+https://docs.google.com/spreadsheets/d/1PPdUUHJPpP653DdHiB6JudWwpIOmV6r_y4vxOyrvXSo/edit?usp=sharing - excel
 
 https://replit.com/@nazirov21/Chisliennyie-mietody#main.py - реплит
 
