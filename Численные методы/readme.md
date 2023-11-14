@@ -10,4 +10,4 @@ https://docs.google.com/spreadsheets/d/1PPdUUHJPpP653DdHiB6JudWwpIOmV6r_y4vxOyrv
 
 https://replit.com/@nazirov21/Chisliennyie-mietody#main.py - реплит
 
-https://docs.google.com/document/d/1QFmm6Sxju-vePODQYRAEBGOkcQIEFd1OP0Ew-gYsyFc/edit?usp=sharing - отчет
+https://docs.google.com/document/d/12lfjY_GfmltNRVqhjX-wUNyU9yKmazvWBXelYojVUTQ/edit?usp=sharing- отчет
