@@ -1,6 +1,7 @@
 https://docs.google.com/document/d/1B_w4x_4--eurmlWlfMTrTm18GpxBl3RQr247H2xnqXc/edit?usp=sharing
 
 https://docs.google.com/document/d/1O0yslYsQ_y2cax_DXgK5mJaE_GbbSBUvDrQLfnmB6NM/edit?usp=sharing - прибыль 
+https://docs.google.com/document/d/133nDL7w4WhT4l8kprBxerO85Vv03SwWbxjZiIm79biM/edit?usp=sharing - сертефикаты 
 
 http://letooo00000.tilda.ws/page0101
 
